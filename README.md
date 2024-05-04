@@ -6,4 +6,6 @@ Mein Motto ist:
 
 Finden kann man mich auf [meiner Website](https://timmorgner.de "Tim Morgner")
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B3XPF4J)
+
 <!-- Na, da will es jemand aber genau wissen... -->
